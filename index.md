@@ -20,6 +20,24 @@ By completing the program, I learned how to tackle new problems in a repeatable 
 # **Code Review**
 [YouTube Link](https://www.youtube.com/watch?v=AVUiwthUgA0)
 
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/AVUiwthUgA0"
+    title="CS-499 Code Review"
+    loading="lazy"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin"></iframe>
+</div>
+
+<p><a href="https://www.youtube.com/watch?v=AVUiwthUgA0">Direct link to YouTube</a></p>
+
+<style>
+  .video-embed { position: relative; width: 100%; aspect-ratio: 16/9; }
+  .video-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+</style>
+
 # **Software Design and Engineering Artifact**
 [Files Link](https://github.com/MRC1994/CS-499/tree/main/Software%20Design%20and%20Engineering)
 
