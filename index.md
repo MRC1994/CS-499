@@ -18,8 +18,6 @@ Together, the artifacts tell a cohesive story of enhancing the same application 
 By completing the program, I learned how to tackle new problems in a repeatable manner. I start with a solid strategy that enhances the system by making the smallest change required to implement the enhancement, use focused tests to confirm the new behavior, and document my findings so that others can build upon them. That template has influenced my values and aspirations as a developer. I want to help create mobile applications that place value on trustworthy, straightforward user experiences by combining careful design, intelligent algorithms, reliable data models, and a security mindset.
 
 # **Code Review**
-[YouTube Link](https://www.youtube.com/watch?v=AVUiwthUgA0)
-
 <div class="video-embed">
   <iframe
     src="https://www.youtube-nocookie.com/embed/AVUiwthUgA0"
@@ -31,7 +29,7 @@ By completing the program, I learned how to tackle new problems in a repeatable 
     referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
 
-<p><a href="https://www.youtube.com/watch?v=AVUiwthUgA0">Direct link to YouTube</a></p>
+<p><a href="https://www.youtube.com/watch?v=AVUiwthUgA0">Direct YouTube Link</a></p>
 
 <style>
   .video-embed { position: relative; width: 100%; aspect-ratio: 16/9; }
